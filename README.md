@@ -1,3 +1,3 @@
-# Enemy-Territory-Legacy-Config
+# Enemy Territory Legacy Config
 
-This repository contains my personal config for Wolfenstein: Enemy Territory optimized for ET:Legacy and Bani's mod (ET:Pro). With binds, a collection of scripts gathered and modified over the years as well as an exhaustive list of settings, thoroughly documented. Many thanks to people the likes of Antman without whom compiling this configuration file would have been many times more difficult.
+This is my Wolfenstein Enemy Territory Legacy config. It is updated for Build 2.78. The config contains binds, settings and a few scripts (spawnpoint selector etc.). If you have any Questions feel free to ask. 
